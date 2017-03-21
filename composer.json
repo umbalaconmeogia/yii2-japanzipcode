@@ -9,6 +9,12 @@
             "email": "umbalaconmeogia@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "umbalaconmeogia\\japanzipcode\\": ""
+        }
+    }
 }

@@ -34,6 +34,7 @@ Edit the composer.json if needed. I have a file like this.
     "require": {}
 }
 ```
+Then run ```composer install``` to install dependencies into /vendor directory.
 
 # Create JapanZipcode (CSV version)
 
