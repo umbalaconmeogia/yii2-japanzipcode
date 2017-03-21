@@ -1,0 +1,14 @@
+{
+    "name": "thanh/yii2-japanzipcode",
+    "description": "Yii2 extension to search for address responding to a zipcode in Japan.",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tran Trung Thanh",
+            "email": "umbalaconmeogia@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
