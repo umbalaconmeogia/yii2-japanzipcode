@@ -1,7 +1,8 @@
 <?php
 use PHPUnit\Framework\TestCase;
+use umbalaconmeogia\japanzipcode\JapanZipcodeCsv;
 
-class JapanZipcodeTest extends TestCase {
+class JapanZipcodeCsvTest extends TestCase {
 
     public function testFindByZipcode()
     {
